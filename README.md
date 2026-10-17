@@ -137,7 +137,6 @@ Assets/
 
 ## 🙏 Credits
 
-- The core gameplay logic was developed together with my instructor; I built the UI and added some features on top.
 - 3D models, UI and footstep sounds from the Unity Asset Store; other sound effects from Pixabay.
 - Cover art: AI-generated.
 
